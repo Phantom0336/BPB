@@ -26,9 +26,7 @@
 - بعد به بخش settings بروید و طبق تصویر زیر تنظیمات را روی ورکر خود اعمال کنید.
 
 
-<p align="center">
-  <img src="images/1.png">
-</p>
+
 
 <p align="center">
   <img src="images/3.png">
